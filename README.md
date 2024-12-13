@@ -296,6 +296,6 @@ k get all
 
 . Docker Hub repositories
 
-![alt text](DpckerHub.png)
+![alt text](DockerHub.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
