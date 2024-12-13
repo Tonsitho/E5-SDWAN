@@ -14,7 +14,7 @@ DE STEPHANIS Antonio Rendu
 Voici la structure du projet:
 
 
-![alt text](Structure.png)
+![alt text](structure.png)
 
 
 . Contenu du Manifest de production
@@ -296,6 +296,6 @@ k get all
 
 . Docker Hub repositories
 
-![alt text](dockerHub.jpg)
+![alt text](images.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
