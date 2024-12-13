@@ -4,7 +4,7 @@ DE STEPHANIS Antonio Rendu
 
 
 
-<!-- PROJECT LOGO --> <br /> <div align="center"> <h3 align="center">Projet Kubernetes : Applications Python</h3> <p align="center"> 
+<!-- PROJECT LOGO --> <br /> <h3 align="center">Projet Kubernetes : Applications Python</h3> 
 
 
 
@@ -19,7 +19,7 @@ Voici la structure du projet:
 
 . Contenu du Manifest de production
 
-``` bash
+```
 # Déploiement pour Flask
 apiVersion: apps/v1
 kind: Deployment
